@@ -8,15 +8,16 @@
         "grammar"
     ],
     "version": "0.14.0",
+    "author": "Michael Huynh",
     "publisher": "miqh",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/miqid/vscode-language-rust#readme",
+    "license": "MIT",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=miqh.vscode-language-rust",
     "repository": {
         "type": "git",
-        "url": "https://github.com/miqid/vscode-language-rust.git"
+        "url": "https://github.com/miqh/vscode-language-rust.git"
     },
     "bugs": {
-        "url": "https://github.com/miqid/vscode-language-rust/issues"
+        "url": "https://github.com/miqh/vscode-language-rust/issues"
     },
     "engines": {
         "vscode": "*"
